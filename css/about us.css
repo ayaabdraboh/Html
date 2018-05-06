@@ -1,0 +1,52 @@
+     *{
+    margin: 0;
+    padding: 0;
+     
+}
+        .div{
+            background-color:#A67771;
+            height:800px;
+            width:1400px;
+            
+            
+        }
+         #h1{
+
+    font-size: 61px;
+    text-align: center;
+    padding-top: 20px;
+    color: pink;
+    text-shadow: 5px 3px white;
+
+}
+.p
+{
+
+            font-family:Kalinga;
+            font-size:25px;
+            color:white;
+            margin-right:20px;
+       
+       
+          } 
+.para{
+    background-color: pink;
+    width: 550px;
+    height: 400px
+}
+.d{
+    color: black;
+    font-size: 24px;
+    text-align: justify;
+    text-indent: 20px;
+    text-align: center;
+    padding-top: 23px;
+
+}
+input[type="button"]{
+                width:150px;
+                background-color:pink;
+                height:30px;
+                color: white;
+                 border-radius: 7px;
+              }

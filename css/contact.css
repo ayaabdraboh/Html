@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+     
+}
+        .div{
+            background-color:#A67771;
+            height:850px;
+            width:1400px;
+            
+            
+        }
+        .p{
+            font-family:Kalinga;
+            font-size:25px;
+            color:pink;
+            margin-top:30px;
+            
+            
+        }
+ #h1{
+
+    font-size: 61px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    text-shadow: 5px 3px pink ;
+
+}
+#img{
+    width:600px;
+    height: 200px;
+}
+
+          
+          textarea{
+              margin-left:20px;
+            
+          }
+        input[type="button"]{
+                width:150px;
+                background-color:pink;
+                height:30px;
+                color: white;
+                 border-radius: 7px;
+              }
+

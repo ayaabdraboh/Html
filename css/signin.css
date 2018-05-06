@@ -1,0 +1,70 @@
+     *{
+    margin: 0;
+    padding: 0;
+     
+}
+        .div{
+            background-color:#A67771;
+            height:800px;
+            width:1400px;
+            
+            
+        }
+         #h1{
+
+    font-size: 61px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    text-shadow: 5px 3px pink ;
+
+
+}
+.p
+{
+
+            font-family:Kalinga;
+            font-size:30px;
+            color:pink;
+            margin-right:20px;
+       
+       
+          }      
+        input[type="text"]{
+            display:block;
+            width:300px;
+            height:35px;
+            border-radius: 7px;
+        }
+          input[type="password"]{
+            display:block;
+            width:300px;
+            height:30px;
+             border-radius: 7px;
+        }
+          input[type="submit"]{
+                width:200px;
+                background-color:pink;
+                height:35px;
+                color: white;
+                border-radius: 7px;
+
+
+          }
+          
+         
+.h{
+
+                width:100px;
+                background-color:pink;
+                height:35px;
+                color: #771E44;
+                text-align: center;
+                 border-radius: 7px;
+                  
+              }
+}
+
+          
+          
+         
